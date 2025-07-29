@@ -4,3 +4,7 @@ An automated firmware verification and real-time sensor monitoring framework whi
 <img width="310" height="260" alt="FirmEx (1)" src="https://github.com/user-attachments/assets/dea34dd7-5168-4424-a204-ae244fcb95a5" />
 
 Fig. FirmEx: A custom designed FT2232H based board heavily inspired by (https://github.com/tigard-tools/tigard)
+
+<img width="819" height="768" alt="ProposedFramework" src="https://github.com/user-attachments/assets/0878f189-bd0e-4529-9299-ebbcf128aa7b" />
+
+Fig. High-Level System Framework
