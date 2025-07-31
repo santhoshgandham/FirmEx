@@ -1,0 +1,1003 @@
+COMMAND PROMPT HISTORY:
+
+
+1007  sudo python3 init_db.py 
+ 1008  sudo python3 app.py 
+ 1009  ping 10.166.240.70
+ 1010  sudo python3 http_central.py 
+ 1011  sudo python3 init_db.py 
+ 1012  sudo python3 app.py 
+ 1013  sudo python3 init_db.py 
+ 1014  sudo python3 app.py 
+ 1015  sudo nano RPi_other_wrong_speed_time_proper.py
+ 1016  sudo python3 init_db.py 
+ 1017  sudo python3 app.py 
+ 1018  cd ..
+ 1019  sudo python3 init_db.py 
+ 1020  sudo python3 app.py 
+ 1021  sudo python3 init_db.py 
+ 1022  sudo python3 app.py 
+ 1023  sudo python3 http_central.py 
+ 1024  sudo python3 central.py 
+ 1025  sudo nano admin_dashboard.html 
+ 1026  sudo python3 http_central.py 
+ 1027  sudo python3 central.py 
+ 1028  cd ..
+ 1029  sudo python3 init_db.py 
+ 1030  sudo python3 app.py 
+ 1031  sudo python3 init_db.py 
+ 1032  sudo python3 app.py 
+ 1033  sudo python3 init_db.py 
+ 1034  sudo python3 app.py 
+ 1035  sudo python3 central.py 
+ 1036  sudo python3 http_central.py 
+ 1037  curl -I -X OPTIONS http://10.114.56.189:5001/ftp/start
+ 1038  curl -I -X OPTIONS http://10.114.56.189:5001/start_http_speedtest
+ 1039  cd ..
+ 1040  sudo python3 init_db.py 
+ 1041  sudo python3 app.py 
+ 1042  sudo python3 init_db.py 
+ 1043  sudo python3 app.py 
+ 1044  sudo python3 init_db.py 
+ 1045  sudo python3 app.py 
+ 1046  curl -X OPTIONS -i http://10.114.56.189:5001/ftp/start
+ 1047  sudo python3 central.py 
+ 1048  cd templates/
+ 1049  sudo nano admin_dashboard.html 
+ 1050  sudo nano central.py 
+ 1051  sudo python3 central.py 
+ 1052  sudo python3 init_db.py 
+ 1053  sudo python3 app.py 
+ 1054  sudo python3 init_db.py 
+ 1055  sudo python3 app.py 
+ 1056  sudo python3 init_db.py 
+ 1057  sudo python3 app.py 
+ 1058  sudo python3 init_db.py 
+ 1059  sudo python3 app.py 
+ 1060  sudo python3 init_db.py 
+ 1061  sudo python3 app.py 
+ 1062  cd templates/
+ 1063  sudo nano admin_dashboard.html 
+ 1064  sudo python3 http_central.py 
+ 1065  ping 10.166.240.70
+ 1066  sudo python3 init_db.py 
+ 1067  sudo python3 app.py 
+ 1068  sudo python3 central.py 
+ 1069  sudo python3 init_db.py 
+ 1070  sudo python3 app.py 
+ 1071  sudo python3 init_db.py 
+ 1072  sudo python3 app.py 
+ 1073  sudo python3 http_central.py 
+ 1074  sudo python3 central.py 
+ 1075  sudo python3 init_db.py 
+ 1076  sudo python3 app.py 
+ 1077  sudo python3 http_central.py 
+ 1078  sudo nano .env
+ 1079  sudo nano credentials
+ 1080  sudo nano grafana_sql_queries
+ 1081  sudo nano grafana_json_codes
+ 1082  sudo python3 init_db.py 
+ 1083  sudo python3 app.py 
+ 1084  sudo python3 http_central.py 
+ 1085  sudo python3 init_db.py 
+ 1086  sudo python3 app.py 
+ 1087  sudo python3 init_db.py 
+ 1088  sudo python3 app.py 
+ 1089  sudo python3 http_central.py 
+ 1090  sudo python3 init_db.py 
+ 1091  sudo python3 app.py 
+ 1092  sudo python3 init_db.py 
+ 1093  sudo python3 app.py 
+ 1094  sudo python3 http_central.py 
+ 1095  cd templates/
+ 1096  pass@432
+ 1097  sudo nano admin_dashboard.html 
+ 1098  sudo python3 init_db.py 
+ 1099  sudo python3 app.py 
+ 1100  sudo python3 central.py 
+ 1101  sudo python3 http_central.py 
+ 1102  sudo python3 init_db.py 
+ 1103  sudo python3 app.py 
+ 1104  sudo python3 init_db.py 
+ 1105  sudo python3 app.py 
+ 1106  sudo python3 central.py 
+ 1107  sudo python3 init_db.py 
+ 1108  sudo python3 app.py
+ 1109  sudo python3 central.py 
+ 1110  sudo python3 init_db.py 
+ 1111  sudo python3 app.py 
+ 1112  sudo python3 init_db.py 
+ 1113  sudo python3 app.py 
+ 1114  sudo python3 central.py 
+ 1115  sudo python3 init_db.py 
+ 1116  sudo python3 app.py 
+ 1117  sudo nano grafana.json
+ 1118  sudo rm grafana.json 
+ 1119  sudo nano grafana_http.json
+ 1120  sudo nano grafana_ftp.json
+ 1121  ftp 10.115.56.99
+ 1122  ftp 10.114.56.99
+ 1123  sudo python3 init_db.py 
+ 1124  sudo python3 app.py 
+ 1125  sudo python3 central.py 
+ 1126  ftp 10.114.58.99
+ 1127  ping 10.166.240.70
+ 1128  sudo python3 init_db.py 
+ 1129  sudo python3 app.py 
+ 1130  sudo python3 central.py 
+ 1131  sudo python3 http_central.py 
+ 1132  ls
+ 1133  sudo rm -r sql
+ 1134  sudo rm -r sql_injection sql_injection2
+ 1135  sudo rm -r sql_injection_2
+ 1136  sudo rm-r flask_app/ my_flask_app/
+ 1137  sudo rm -r flask_app/ my_flask_app/
+ 1138  sudo rm -r html/
+ 1139  sudo rm speedtest.py 
+ 1140  cd templates/
+ 1141  sudo rm admin_combined.html adminftp.html adminftp_full_working.html adminhttp.html check.html final.html new.html template_2.html testing.html testing1.html with_progress_bar_working.html 
+ 1142  cd ..
+ 1143  sudo rm admin_opt.html app1.py basic.html credentials desktop desktop.1 dummy.html grafana_ftp.json grafana_http.json grafana_json_codes grafana_sql_queries Rpi_final_ref.py Rpi_other_wrong_speed_time_proper.py valid_url 
+ 1144  ls
+ 1145  sudo RPi_final_ref.py
+ 1146  sudo rm RPi_final_ref.py RPi_other_wrong_speed_time_proper.py 
+ 1147  sudo python3 init_db.py 
+ 1148  sudo python3 app.py 
+ 1149  sudo python3 central.py 
+ 1150  ls
+ 1151  sudo python3 central.py 
+ 1152  cd
+ 1153  ls
+ 1154  cd /
+ 1155  ls
+ 1156  sudo python3 central.py 
+ 1157  cd home/
+ 1158  ls
+ 1159  cd ems_intern/
+ 1160  ls
+ 1161  cat .env
+ 1162  cd /
+ 1163  cat .env
+ 1164  cd /var/www/flask_login_app/
+ 1165  cat users.db 
+ 1166  gedit users.db 
+ 1167  history
+ 1168  sudo nano .env
+ 1169  cd /
+ 1170  sudo nano .env
+ 1171  cd /var/www/flask_login_app/
+ 1172  ls
+ 1173  cd ..
+ 1174  sudo nano .env
+ 1175  cd /var/www/flask_login_app/
+ 1176  ls
+ 1177  cd templates/
+ 1178  ls
+ 1179  cat login.html 
+ 1180  sudi systemctl status sql
+ 1181  history | grep sql
+ 1182  history | grep mys
+ 1183  printenv
+ 1184  ls
+ 1185  cat app.py
+ 1186  history | grep sql
+ 1187  sqlite2
+ 1188  sqlite3
+ 1189  ping 10.114.58.99
+ 1190  10.32.240.223
+ 1191  ping 10.32.240.223
+ 1192  ping 10.166.240.70
+ 1193  sudo python3 init_db.py 
+ 1194  sudo python3 app.py 
+ 1195  cat app.py
+ 1196  sudo python3 app.py 
+ 1197  sudo python3 central.py 
+ 1198  sudo python3 http_central.py 
+ 1199  ifconfig
+ 1200  ping google.com
+ 1201  sudo add-apt-repository ppa:kicad/kicad-9.0-releases
+ 1202  sudo apt update
+ 1203  sudo apt install kicad
+ 1204  cd /var/www/flask_login_app/
+ 1205  ls
+ 1206  sudo python3 init_db.py 
+ 1207  sudo python3 app.py 
+ 1208  cat app.py
+ 1209  ping 10.114.56.189
+ 1210  nmap 10.114.56.189
+ 1211  sudo python3 app.py 
+ 1212  cd /var/www/flask_login_app/
+ 1213  ls
+ 1214  sudo python3 cen
+ 1215  cd /var/www/flask_login_app/
+ 1216  sudo python3 central.py 
+ 1217  cd /var/www/flask_login_app/
+ 1218  sudo python3 http_central.py 
+ 1219  java -jar freerouting.jar
+ 1220  sudo apt install default-jre   
+ 1221  java -jar freerouting.jar
+ 1222  cd /freerouting-2.1.0-linux-x64/lib/app/
+ 1223  cd Downloads
+ 1224  cd lib
+ 1225  ls
+ 1226  cd app
+ 1227  ls
+ 1228  java -jar freerouting-executable.jar
+ 1229  sudo apt update
+ 1230  sudo apt install openjdk-21-jdk
+ 1231  sudo update-alternatives --config java
+ 1232  java -version
+ 1233  ~java -version
+ 1234  java -version
+ 1235  java -jar freerouting-executable.jar
+ 1236  time flashrom -p ft2232_spi:type=2232H, port=B,divisor=4 -r router.bin
+ 1237  sudo apt install flashrom
+ 1238  time flashrom -p ft2232_spi:type=2232H, port=B,divisor=4 -r router.bin
+ 1239  flashrom -p ft2232_spi:type=2232H, port=B,divisor=4 -r router.bin
+ 1240  time flashrom -p ft2232_spi:type=2232H, port=B,divisor=4 -r router.bin
+ 1241  flashrom -p ft2232_spi:type=2232H,channel=B,divisor=4 -r router.bin
+ 1242  sudo apt remove flashrom
+ 1243  git clone https://review.coreboot.org/flashrom.git
+ 1244  cd flashrom
+ 1245  make -j
+ 1246  sudo make install
+ 1247  flashrom -p ft2232_spi:type=2232H,channel=B,divisor=4 -r router.bin
+ 1248  sudo apt update
+ 1249  sudo apt install git build-essential libftdi1-dev libusb-1.0-0-dev pkg-config
+ 1250  git clone https://review.coreboot.org/flashrom.git
+ 1251  cd flashrom
+ 1252  make -j
+ 1253  sudo apt install meson ninja-build build-essential libftdi1-dev libusb-1.0-0-dev pkg-config
+ 1254  meson setup build
+ 1255  ninja -C build
+ 1256  sudo ninja -C build install
+ 1257  which flashrom
+ 1258  flashrom --version
+ 1259  hash -r
+ 1260  which flashrom
+ 1261  flashrom --version
+ 1262  flashrom -p ft2232_spi:type=2232H,channel=B,divisor=4 -r router.bin
+ 1263  flashrom -p ft2232_spi:type=2232H,divisor=4 -r router.bin
+ 1264  flashrom -p ft2232_spi:type=2232H,channel=B,divisor=4 -r router.bin
+ 1265  flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1266  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1267  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=8 -r router.bin
+ 1268  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=64 -r router.bin
+ 1269  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1270  clear
+ 1271  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1272  lsusb
+ 1273  lsof /dev/ttyUSB*
+ 1274  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1275  cd flashrom
+ 1276  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1277  cd
+ 1278  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1279  cd flashrom
+ 1280  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1281  lsof /dev/ttyUSB*
+ 1282  lsusb
+ 1283  sudo flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1284  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1285  sudo flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1286  sudo visudo
+ 1287  sudo flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1288  sudo flashrom -p ft2232_spi:type=2232H,port=B,divisor=4-c W25Q64JV-.Q -r router.bin
+ 1289  sudo flashrom -p ft2232_spi:type=2232H,port=B,divisor=4-c "W25Q64JV-.Q" -r router.bin
+ 1290  sudo flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -c "W25Q64JV-.Q" -r router.bin
+ 1291  sudo flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -c "W25Q64JV-.Q" -r router.bin
+ 1292  sudo flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1293  cd ~
+ 1294  nano tigard-tiva.cfg
+ 1295  sudo openocd -f tigard-tiva.cfg
+ 1296  sudo apt update
+ 1297  sudo apt upgrade
+ 1298  sudo apt install git autoconf libtool make pkg-config libusb-1.0-0-dev libftdi1-dev libhidapi-dev
+ 1299  git clone https://github.com/openocd-org/openocd.git
+ 1300  cd openocd
+ 1301  ./bootstrap
+ 1302  ./configure --enable-ftdi --enable-usb-blaster-2 --enable-jlink --enable-hidapi
+ 1303  make -j$(nproc)
+ 1304  sudo make install
+ 1305  ./bootstrap
+ 1306  ./configure --enable-ftdi --enable-usb-blaster-2 --enable-jlink --enable-hidapi
+ 1307  sudo apt install autoconf libtool pkg-config
+ 1308  make -j$(nproc)
+ 1309  ls
+ 1310  ./configure --enable-ftdi --enable-usb-blaster-2 --enable-jlink --enable-hidapi
+ 1311  cd ~
+ 1312  rm -rf openocd  # Optional: clean old broken clone
+ 1313  git clone --recursive https://github.com/openocd-org/openocd.git
+ 1314  cd openocd
+ 1315  ./bootstrap
+ 1316  ./configure --enable-ftdi --enable-usb-blaster-2 --enable-jlink --enable-hidapi
+ 1317  make -j$(nproc)
+ 1318  sudo make install
+ 1319  cd ~
+ 1320  rm -rf openocd
+ 1321  git clone --recursive https://github.com/openocd-org/openocd.git
+ 1322  cd openocd
+ 1323  ./bootstrap
+ 1324  ./configure --enable-ftdi --enable-usb-blaster-2 --enable-jlink --enable-hidapi
+ 1325  openocd --version
+ 1326  sudo apt install openocd
+ 1327  openocd --version
+ 1328  nano tigard-tiva.cfg
+ 1329  sudo openocd -f tigard-tiva.cfg
+ 1330  nano tigard-tiva.cfg
+ 1331  sudo openocd -f tigard-tiva.cfg
+ 1332  nano tigard-tiva.cfg
+ 1333  sudo openocd -f tigard-tiva.cfg
+ 1334  cd Downloads
+ 1335  sudo openocd -f tigard-tiva.cfg
+ 1336  telnet localhost 4444
+ 1337  telnet localhost 4444
+ 1338  sudo lsof -i :4444
+ 1339  telnet localhost 4444
+ 1340  sudo pkill openocd
+ 1341  sudo openocd -f tigard-tiva.cfg
+ 1342  ps aux | grep openocd
+ 1343  cd
+ 1344  cd ~/Downloads
+ 1345  sudo openocd -f tigard-tiva.cfg
+ 1346  telnet localhost 4444
+ 1347  cd ~/Downloads
+ 1348  sudo openocd -f tigard-tiva.cfg
+ 1349  cd
+ 1350  cd ~/Downloads
+ 1351  sudo openocd -f tigard-tiva.cfg
+ 1352  sudo pkill openocd
+ 1353  cd
+ 1354  cd ~/Downloads
+ 1355  sudo openocd -f tigard-tiva.cfg
+ 1356  cd
+ 1357  sudo pkill openocd
+ 1358  ps aux | grep openocd
+ 1359  cd ~/Downloads
+ 1360  sudo openocd -f tigard-tiva.cfg
+ 1361  sudo openocd -f tigard-tiva.cfg
+ 1362  telnet localhost 4444
+ 1363  sudo openocd -f tigard-tiva.cfg
+ 1364  telnet localhost 4444
+ 1365  sudo openocd -f tigard-tiva.cfg
+ 1366  sudo pkill openocd
+ 1367  sudo openocd -f tigard-tiva.cfg
+ 1368  cd
+ 1369  sudo pkill openocd
+ 1370  cd ~/Downloads
+ 1371  sudo openocd -f tigard-tiva.cfg
+ 1372  ps aux | grep openocd
+ 1373  sudo openocd -f tigard-tiva.cfg
+ 1374  sudo pkill openocd
+ 1375  sudo openocd -f tigard-tiva.cfg
+ 1376  sudo pkill openocd
+ 1377  sudo openocd -f tigard-tiva.cfg
+ 1378  cd
+ 1379  sudo openocd -f tigard-tiva.cfg
+ 1380  cd ~/Downloads
+ 1381  sudo openocd -f tigard-tiva.cfgexit
+ 1382  sudo openocd -f tigard-tiva.cfg
+ 1383  sudo pkill openocd
+ 1384  sudo openocd -f tigard-tiva.cfg
+ 1385  sudo lsof -i :4444
+ 1386  sudo openocd -f tigard-tiva.cfg
+ 1387  cd ~/Downloads
+ 1388  sudo openocd -f tigard-tiva.cfg
+ 1389  cd ~/Downloads
+ 1390  sudo openocd -f tigard-tiva.cfg
+ 1391  sudo pkill openocd
+ 1392  sudo openocd -f tigard-tiva.cfg
+ 1393  sudo pkill openocd
+ 1394  sudo openocd -f tigard-tiva.cfg
+ 1395  sudo pkill openocd
+ 1396  sudo openocd -f tigard-tiva.cfg
+ 1397  sudo pkill openocd
+ 1398  sudo openocd -f tigard-tiva.cfg
+ 1399  sudo pkill openocd
+ 1400  cd ~/Downloads
+ 1401  sudo pkill openocd
+ 1402  sudo openocd -f tigard-tiva.cfg
+ 1403  sudo openocd -f interface/tigard.cfg -c "transport select jtag; adapter speed 100; init; scan_chain"
+ 1404  sudo openocd -f interface/tigard.cfg -c "transport select jtag; adapter speed 2000; init; scan_chain"
+ 1405  sudo pkill openocd
+ 1406  sudo openocd -f tigard-tiva.cfg
+ 1407  telnet localhost 4444
+ 1408  sudo
+ 1409  clear
+ 1410  sudo openocd -f tigard-tiva.cfg
+ 1411  cd ~/Downloads
+ 1412  sudo openocd -f tigard-tiva.cfg
+ 1413  cd Downloads
+ 1414  cd
+ 1415  cd Downloads
+ 1416  sudo openocd -f tigard-tiva.cfg
+ 1417  cd
+ 1418  sudo pkill openocd
+ 1419  cd Downloads
+ 1420  sudo pkill openocd
+ 1421  sudo openocd -f tigard-tiva.cfg
+ 1422  sudo pkill openocd
+ 1423  sudo openocd -f tigard-tiva.cfg
+ 1424  sudo pkill openocd
+ 1425  cd
+ 1426  sudo pkill openocd
+ 1427  cd Downloads
+ 1428  sudo pkill openocd
+ 1429  sudo openocd -f tigard-tiva.cfg
+ 1430  clear
+ 1431  sudo openocd -f tigard-tiva.cfg
+ 1432  cd Downloads
+ 1433  sudo openocd -f tigard-tiva.cfg
+ 1434  cd Downloads
+ 1435  sudo openocd -f tigard-tiva.cfg
+ 1436  sudo flashrom -p ft2232_spi:type=2232H,channel=B,divisor=4 -r router.bin
+ 1437  sudo flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1438  sudo flashrom -p ft2232_spi:type=2232H,channel=B,divisor=4 -c "W25Q64JV-.Q" -r router.bin
+ 1439  sudo flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -c "W25Q64JV-.Q" -r router.bin
+ 1440  cd Downloads
+ 1441  sudo openocd -f jtag_dump.cfg
+ 1442  sudo pkill openocd
+ 1443  sudo openocd -f jtag_dump.cfg
+ 1444  dmesg -V
+ 1445  dmesg -W
+ 1446  dmesg -w
+ 1447  sudo dmesg -w
+ 1448  screen /dev/ttyUSB0 115200
+ 1449  sudo apt install screen
+ 1450  screen /dev/ttyUSB0 115200
+ 1451  clear
+ 1452  screen /dev/ttyUSB0 115200
+ 1453  sudo dmesg -w
+ 1454  reset
+ 1455  screen /dev/ttyUSB0 115200
+ 1456  screen /dev/ttyUSB1 115200
+ 1457  sudo dmesg -w
+ 1458  screen /dev/ttyUSB0 115200
+ 1459  screen /dev/ttyUSB1 115200
+ 1460  screen /dev/ttyUSB0 115200
+ 1461  screen /dev/ttyUSB1 115200
+ 1462  screen /dev/ttyUSB0 115200
+ 1463  sudo dmesg -w
+ 1464  screen /dev/ttyUSB0 115200
+ 1465  screen /dev/ttyUSB1 115200
+ 1466  screen /dev/ttyUSB0 115200
+ 1467  screen /dev/ttyUSB1 115200
+ 1468  screen /dev/ttyUSB0 115200
+ 1469  screen /dev/ttyUSB1 115200
+ 1470  screen /dev/ttyUSB0 115200
+ 1471  screen /dev/ttyUSB1 115200
+ 1472  sudo dmesg -w
+ 1473  screen /dev/ttyUSB1 115200
+ 1474  screen /dev/ttyUSB0 115200
+ 1475  sudo screen /dev/ttyUSB0 115200
+ 1476  sudo screen /dev/ttyUSB0 9600
+ 1477  sudo screen /dev/ttyUSB0 38400
+ 1478  screen /dev/ttyUSB0 57600
+ 1479  sudo screen /dev/ttyUSB0 115200
+ 1480  sudo openocd -f interface/tigard.cfg
+ 1481  git clone https://github.com/usb-tools/tigard-hardware.git
+ 1482  cd tigard-hardware/support/openocd/
+ 1483  sudo openocd -f ./interface/tigard.cfg
+ 1484  sudo screen /dev/ttyUSB0 115200
+ 1485  screen /dev/ttyUSB0 115200
+ 1486  sudo screen /dev/ttyUSB0 115200
+ 1487  sudo screen /dev/ttyUSB0 115200
+ 1488  dmesg | grep tty
+ 1489  sudo dmesg | grep tty
+ 1490  screen /dev/ttyUSB0 57600
+ 1491  screen /dev/ttyUSB0 38400
+ 1492  screen /dev/ttyUSB0 9600
+ 1493  screen /dev/ttyUSB0 57600
+ 1494  sudo screen /dev/ttyUSB0 960
+ 1495  sudo screen /dev/ttyUSB0 115200
+ 1496  sudo screen /dev/ttyUSB1 115200
+ 1497  sudo screen /dev/ttyUSB0 115200
+ 1498  sudo screen /dev/ttyUSB0 115200
+ 1499  cd downlaods
+ 1500  cd downloads
+ 1501  cd Downloads
+ 1502  sudo openocd -f jtag_dump.cfg
+ 1503  sudo openocd -f swd_dump.cfg
+ 1504  sudo openocd -f swd_dump.cfg 
+ 1505  telnet localhost 4444
+ 1506  sudo openocd -f swd_dump.cfg 
+ 1507  [200~pip install pyftdi
+ 1508  pip install mlx90640-driver
+ 1509  python3 smtg bro.py
+ 1510  python3 smtgbro.py
+ 1511  pip3 install pyftdi
+ 1512  python3 smtgbro.py
+ 1513  sudo apt install minicom  # or use screen, PuTTY, gtkterm, etc.
+ 1514  sudo minicom -D /dev/ttyUSB0 -b 115200
+ 1515  dmesg | grep ttyUSB
+ 1516  screen /dev/ttyUSB0 115200
+ 1517  sudo dmesg | grep tty
+ 1518  sudo screen /dev/ttyUSB0 115200
+ 1519  sudo dmesg | grep tty
+ 1520  sudo screen /dev/ttyUSB0 115200
+ 1521  sudo dmesg | grep tty
+ 1522  sudo screen /dev/ttyUSB0 115200
+ 1523  sudo screen /dev/ttyUSB1 115200
+ 1524  sudo screen /dev/ttyUSB2 115200
+ 1525  sudo dmesg | grep tty
+ 1526  sudo screen /dev/USB0 115200
+ 1527  sudo screen /dev/USB1 115200
+ 1528  sudo screen /dev/ttyUSB0 115200
+ 1529  sudo dmesg | grep tty
+ 1530  ls /dev/ttyUSB*
+ 1531  sudo screen /dev/ttyUSB0 115200
+ 1532  sudo screen /dev/ttyUSB1 115200
+ 1533  sudo apt update
+ 1534  sudo apt install cutecom
+ 1535  sudo cutecom
+ 1536  lsof /dev/ttyUSB1
+ 1537  sudo kill -9 <PID>
+ 1538  sudo apt remove brltty
+ 1539  sudo pkill cutecom
+ 1540  sudo cutecom
+ 1541  dmesg | grep tty
+ 1542  sudo dmesg | grep tty
+ 1543  sudo cutecom
+ 1544  # Run both in background, then wait 15 seconds
+ 1545  timeout 15s cat /dev/ttyUSB1 > usb1_log.txt &
+ 1546  timeout 15s cat /dev/ttyUSB2 > usb2_log.txt &
+ 1547  wait
+ 1548  # Run both in background, then wait 15 seconds
+ 1549  timeout 15s cat /dev/ttyUSB1 > usb1_log.txt &
+ 1550  timeout 15s cat /dev/ttyUSB2 > usb2_log.txt &
+ 1551  wait
+ 1552  sudo bash -c 'timeout 15s cat /dev/ttyUSB1 > usb1_log.txt' &
+ 1553  sudo bash -c 'timeout 15s cat /dev/ttyUSB2 > usb2_log.txt' &
+ 1554  wait
+ 1555  sudo apt remove brltty modemmanager
+ 1556  lsof /dev/ttyUSB1
+ 1557  lsof /dev/ttyUSB2
+ 1558  sudo timeout 5s cat /dev/ttyUSB1 > usb1_log.txt
+ 1559  sudo timeout 5s cat /dev/ttyUSB2 > usb2_log.txt
+ 1560  sudo timeout 10s cat /dev/ttyUSB1 > usb1_log.txt
+ 1561  sudo timeout 10s cat /dev/ttyUSB2 > usb1_log.txt
+ 1562  sudo timeout 10s cat /dev/ttyUSB1 > usb1_log.txt
+ 1563  sudo cutecom
+ 1564  sudo stty -F /dev/ttyUSB1 115200 cs8 -cstopb -parenb -ixon -crtscts -echo
+ 1565  sudo timeout 10s cat /dev/ttyUSB1 > usb1_log.txt
+ 1566  sudo timeout 20s cat /dev/ttyUSB1 > usb1_log.txt
+ 1567  sudo timeout 5s cat /dev/ttyUSB1 | hexdump -C
+ 1568  sudo stty -F /dev/ttyUSB1 115200 cs8 -cstopb -parenb -ixon -crtscts -echo
+ 1569  sudo stty -F /dev/ttyUSB2 115200 cs8 -cstopb -parenb -ixon -crtscts -echo
+ 1570  sudo bash -c 'timeout 15s cat /dev/ttyUSB1 > usb1_log.txt' &
+ 1571  sudo bash -c 'timeout 15s cat /dev/ttyUSB2 > usb2_log.txt' &                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+ 1572  wait
+ 1573  sudo cutecom
+ 1574  sudo timeout 5s cat /dev/ttyUSB2 > usb2_log.txt
+ 1575  sudo timeout 5s cat /dev/ttyUSB1 | hexdump -C
+ 1576  sudo timeout 10s cat /dev/ttyUSB1 | hexdump -C
+ 1577  sudo cutecom
+ 1578  sudo timeout 5s cat /dev/ttyUSB1 | hexdump -C > usb1_log_hex.txt
+ 1579  sudo timeout 10s cat /dev/ttyUSB1 > usb1_raw.bin
+ 1580  sudo cutecom
+ 1581  sudo stty -F /dev/ttyUSB1 115200 cs8 -cstopb -parenb -ixon -crtscts -echo
+ 1582  sudo timeout 10s cat /dev/ttyUSB1 > usb1_log.txt
+ 1583  sudo timeout 10s cat /dev/ttyUSB1 | hexdump -C > usb1_log_hex.txt
+ 1584  sudo cat /dev/ttyUSB1 | hexdump -C
+ 1585  sudo python3 smtgbro.py
+ 1586  cd /home/ems_intern/Downloads
+ 1587  sudo python3 smtgbro.py
+ 1588  sudo pip3 install pyserial numpy pandas matplotlib
+ 1589  sudo python3 smtgbro.py
+ 1590  sudo lsof | grep ttyUSB1
+ 1591  sudo python3 smtgbro.py
+ 1592  cd /home/ems_intern/Downloads
+ 1593  sudo python3 smtgbro.py
+ 1594  sudo cutecom
+ 1595  cd /home/ems_intern/Downloads
+ 1596  sudo python3 smtgbro.py
+ 1597  sudo cutecom
+ 1598  sudo python3 smtgbro.py
+ 1599  sudo python3 smtgbro1.py
+ 1600  pip install scikit-learn
+ 1601  sudo python3 omsairam.py
+ 1602  sudo pip3 install scikit-learn numpy pyserial
+ 1603  sudo python3 omsairam.py
+ 1604  cd /home/ems_intern/Downloads
+ 1605  sha256sum firmex.bin
+ 1606  dmesg | grep tty
+ 1607  sudo dmesg | grep tty
+ 1608  sudo cutecom
+ 1609  sudo dmesg | grep tty
+ 1610  sudo cutecom
+ 1611  sudo dmesg | grep tty
+ 1612  telnet localhost 4444
+ 1613  sudo lsof -i :4444
+ 1614  telnet localhost 4444
+ 1615  clear
+ 1616  sudo dmesg | grep tty
+ 1617  lsusb
+ 1618  sudo ftdi_eeprom --read-eeprom tigard_dump.bin
+ 1619  nano tigard_read.conf
+ 1620  sudo ftdi_eeprom --device tigard_read.conf --read-eeprom
+ 1621  sudo ftdi_eeprom --read-eeprom tigard_read.conf
+ 1622  sudo ftdi_eeprom --decode-eeprom tigard_read.conf
+ 1623  sudo ftdi_eeprom --build-eeprom --decode-eeprom tigard_read.conf
+ 1624  sudo ftdi_eeprom --read-eeprom tigard_read.conf
+ 1625  pip install ftx-prog
+ 1626  pip3 install ftx-prog
+ 1627  pip install ftx-prog
+ 1628  sudo apt install libusb-1.0-0-dev libftdi1-dev python3-pip git
+ 1629  git clone https://github.com/flatz/ftx-prog.git
+ 1630  cd ftx-prog
+ 1631  sudo apt install ftdi-eeprom
+ 1632  sudo ftdi_eeprom --flash-eeprom --read-eeprom tigard.eep
+ 1633  sudo ftdi_eeprom --flash-eeprom tigard_flash.conf
+ 1634  clear
+ 1635  sudo apt install ftdi-eeprom
+ 1636  sudo ftdi_eeprom --flash-eeprom firmex.conf
+ 1637  nano firmex.conf
+ 1638  sudo ftdi_eeprom --flash-eeprom firmex.conf
+ 1639  lsusb
+ 1640  sudo lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1641  sudo ftdi_eeprom --flash-eeprom firmex.conf
+ 1642  lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1643  sudo ftdi_eeprom --flash-eeprom firmex.conf
+ 1644  lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1645  sudo ftdi_eeprom --flash-eeprom firmex.conf
+ 1646  lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1647  lsusb
+ 1648  lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1649  sudo ftdi_eeprom --flash-eeprom firmex.conf
+ 1650  lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1651  sudo dmesg | grep tty
+ 1652  sudo dmesg -v
+ 1653  sudo dmesg -w
+ 1654  sudo openocd -f jtag_dump.cfg
+ 1655  netstat -tulnp | grep 4444
+ 1656  sudo lsof -i :4444
+ 1657  netstat -tulnp | grep 4444
+ 1658  sudo openocd -f jtag_dump.cfg
+ 1659  sudo pkill openocd
+ 1660  sudo openocd -f jtag_dump.cfg
+ 1661  cd Downloads
+ 1662  sudo openocd -f jtag_dump.cfg
+ 1663  sudo dmesg -v
+ 1664  sudo lsof -i :4444
+ 1665  sudo dmesg -V
+ 1666  sudo pkill openocd
+ 1667  sudo openocd -f jtag_dump.cfg
+ 1668  dmesg -W
+ 1669  sudo dmesg -W
+ 1670  sudo dmesg -v
+ 1671  sudo dmesg -w
+ 1672  sudo openocd -f jtag_dump.cfg
+ 1673  sudo openocd -f tigard-tiva.cfg
+ 1674  sudo openocd -f jtag_dump.cfg
+ 1675  telnet localhost 4444
+ 1676  sudo openocd -f jtag_dump.cfg
+ 1677  telnet localhost 4444
+ 1678  sudo openocd -f jtag_dump.cfg
+ 1679  reset halt
+ 1680  telnet localhost 4444
+ 1681  reset halt
+ 1682  sudo openocd -f jtag_dump.cfg
+ 1683  telnet localhost 4444
+ 1684  sudo dmesg -v
+ 1685  dmesg -W
+ 1686  dmesg -w
+ 1687  dmesg -v
+ 1688  dmesg -V
+ 1689  sudo dmesg -w
+ 1690  sudo pkill openocd
+ 1691  sudo dmesg -w
+ 1692  sudo openocd -f jtag_dump.cfg
+ 1693  sudo pkill openocd
+ 1694  lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1695  sudo openocd -f jtag_dump.cfg
+ 1696  sudo pkill openocd
+ 1697  sudo openocd -f jtag_dump.cfg
+ 1698  sudo pkill openocd
+ 1699  clear
+ 1700  sudo pkill openocd
+ 1701  clear
+ 1702  sudo openocd -f jtag_dump.cfg
+ 1703  clear
+ 1704  sudo openocd -f jtag_dump.cfg
+ 1705  clear
+ 1706  sudo openocd -f jtag_dump.cfg
+ 1707  clear
+ 1708  sudo openocd -f jtag_dump.cfg
+ 1709  cd Downlaods
+ 1710  cd Downloads
+ 1711  sudo openocd -f jtag_dump.cfg
+ 1712  cd Downloads
+ 1713  sudo openocd -f jtag_dump.cfg
+ 1714  clear
+ 1715  sudo pkill openocd
+ 1716  clear
+ 1717  sudo pkill openocd
+ 1718  clear
+ 1719  sudo openocd -f jtag_dump.cfg
+ 1720  sudo pkill openocd
+ 1721  clear
+ 1722  sudo openocd -f jtag_dump.cfg
+ 1723  clear
+ 1724  sudo openocd -f jtag_dump.cfg
+ 1725  sudo pkill openocd
+ 1726  clear
+ 1727  sudo openocd -f jtag_dump.cfg
+ 1728  clear
+ 1729  sudo openocd -f jtag_dump.cfg
+ 1730  sudo pkill openocd
+ 1731  clear
+ 1732  sudo openocd -f jtag_dump.cfg
+ 1733  cd Downloads
+ 1734  sudo openocd -f jtag_dump.cfg
+ 1735  cd Downloads
+ 1736  sudo openocd -f jtag_dump.cfg
+ 1737  clear
+ 1738  sudo openocd -f jtag_dump.cfg
+ 1739  clear
+ 1740  sudo openocd -f jtag_dump.cfg
+ 1741  clear
+ 1742  sudo pkill openocd
+ 1743  clear
+ 1744  sudo openocd -f jtag_dump.cfg
+ 1745  clear
+ 1746  sudo pkill openocd
+ 1747  clear
+ 1748  sudo openocd -f jtag_dump.cfg
+ 1749  clear
+ 1750  sudo pkill openocd
+ 1751  clear
+ 1752  sudo pkill openocd
+ 1753  clear
+ 1754  sudo openocd -f jtag_dump.cfg
+ 1755  clear
+ 1756  sudo openocd -f jtag_dump.cfg
+ 1757  clear
+ 1758  sudo openocd -f jtag_dump.cfg
+ 1759  clear
+ 1760  sudo openocd -f jtag_dump.cfg
+ 1761  clear
+ 1762  sudo openocd -f jtag_dump.cfg
+ 1763  clear
+ 1764  sudo openocd -f jtag_dump.cfg
+ 1765  clear
+ 1766  sudo pkill openocd
+ 1767  clear
+ 1768  sudo openocd -f jtag_dump.cfg
+ 1769  clear
+ 1770  sudo openocd -f jtag_dump.cfg
+ 1771  clear
+ 1772  sudo openocd -f jtag_dump.cfg
+ 1773  clear
+ 1774  sudo pkill openocd
+ 1775  clear
+ 1776  sudo openocd -f jtag_dump.cfg
+ 1777  clear
+ 1778  sudo pkill openocd
+ 1779  clear
+ 1780  sudo openocd -f jtag_dump.cfg
+ 1781  clear
+ 1782  time flashrom -p ft2232_spi:type=2232H, port=B,divisor=4 -r router.bin
+ 1783  sudo flashrom -p ft2232_spi:type=2232H,channel=B,divisor=4 -r router.bin
+ 1784  sudo flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1785  clear
+ 1786  sudo pkill openocd
+ 1787  clear
+ 1788  sudo pkill openocd
+ 1789  clear
+ 1790  cd Downloads
+ 1791  clear
+ 1792  sudo openocd -f jtag_dump.cfg
+ 1793  clear
+ 1794  sudo openocd -f jtag_dump.cfg
+ 1795  sudo pkill openocd
+ 1796  clear
+ 1797  sudo openocd -f jtag_dump.cfg
+ 1798  clear
+ 1799  sudo pkill openocd
+ 1800  clear
+ 1801  sudo openocd -f jtag_dump.cfg
+ 1802  clear
+ 1803  sudo ftdi_eeprom --read-eeprom tigard.eep
+ 1804  sudo ftdi_eeprom --read-eeprom firmex.eep
+ 1805  lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1806  sudo ftdi_eeprom --flash-eeprom firmex.conf
+ 1807  sudo ftdi_eeprom --read-eeprom tigard.eep
+ 1808  nano firmex_minimal.conf
+ 1809  sudo ftdi_eeprom --flash-eeprom firmex_minimal.conf
+ 1810  lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1811  sudo openocd -f jtag_dump.cfg
+ 1812  lsusb -v -d 0403:6010 | grep -E 'iMan|iProd|iSer'
+ 1813  ftdi_eeprom --read-eeprom firmex_dump.eep
+ 1814  xxd firmex_dump.eep | less
+ 1815  cd Donwloads
+ 1816  cd Downloads
+ 1817  clear
+ 1818  sudo openocd -f jtag_dump.cfg
+ 1819  clear
+ 1820  sudo pkill openocd
+ 1821  clear
+ 1822  sudo openocd -f jtag_dump.cfg
+ 1823  clear
+ 1824  sudo pkill openocd
+ 1825  clear
+ 1826  sudo openocd -f jtag_dump.cfg
+ 1827  lsusb
+ 1828  sudo lsusb -v -d 0403:6010
+ 1829  dmesg | grep -i ftdi
+ 1830  ls /dev/ttyUSB*
+ 1831  sudo ftdi_eeprom --read-eeprom readout.eep --device i:0x0403:0x6010
+ 1832  sudo ftdi_eeprom --read-eeprom readout.eep --device i:0x0403:0x6010 --ignore-config
+ 1833  sudo apt install libftdi1-2 libftdi1-dev libftdi1-dbg libftdi1-tools
+ 1834  sudo apt install libftdi1-2 libftdi1-dev libftdi1-dbg
+ 1835  git clone https://github.com/keirf/ftdi-eeprom.git
+ 1836  cd ftdi-eeprom
+ 1837  cd Downloads
+ 1838  sudo pkill openocd
+ 1839  clear
+ 1840  sudo pkill openocd
+ 1841  clear
+ 1842  sudo openocd -f jtag_dump.cfg
+ 1843  clear
+ 1844  sudo pkill openocd
+ 1845  clear
+ 1846  sudo lsusb -v -d 0403:6010
+ 1847  ftdi_eeprom --device i:TG1114ad --flash-eeprom --filename tigard_eeprom.conf
+ 1848  ftdi_eeprom --device i:TG1114ad --read-eeprom tigard_eeprom.eep
+ 1849  ftdi_eeprom --device i:TG1114ad --read-eeprom --filename tigard_eeprom.conf
+ 1850  ftdi_eeprom --device i:TG1114ad --read-eeprom tigard_eeprom.eep
+ 1851  sudo ftdi_eeprom --device i:TG1114ad --read-eeprom --filename tigard_eeprom.eep dummy.conf
+ 1852  echo "# dummy config" > dummy.conf
+ 1853  sudo ftdi_eeprom --device i:TG1114ad --read-eeprom --filename tigard_eeprom.eep dummy.conf
+ 1854  echo "# dummy config" > dummy.conf
+ 1855  sudo ftdi_eeprom --device i:TG1114ad --read-eeprom --filename=tigard_eeprom.eep dummy.conf
+ 1856  sudo ftdi_eeprom --device i:0403:6010 --read-eeprom --filename=tigard.eep dummy.conf
+ 1857  sudo ftdi_eeprom --device i:0403:6010 --read-eeprom --filename=tigard.eep --verbose dummy.conf
+ 1858  echo -e "vendor_id=0x0403\nproduct_id=0x6010" > dummy.conf
+ 1859  sudo ftdi_eeprom --device i:0403:6010 --read-eeprom --filename=tigard.eep dummy.conf
+ 1860  lsusb
+ 1861  sudo ftdi_eeprom --device i:0403:6010 --read-eeprom dummy.conf --filename=tigard.eep
+ 1862  ls -lh tigard.eep
+ 1863  sudo ftdi_eeprom --read-eeprom --filename=tigard.eep dummy.conf
+ 1864  sudo ftdi_eeprom --device s:0403:6010:TG1114ad --read-eeprom --filename=tigard.eep dummy.conf
+ 1865  echo -e "vendor_id=0x0403\nproduct_id=0x6010" > dummy.conf
+ 1866  sudo ftdi_eeprom --device s:0403:6010:TG1114ad --read-eeprom --filename=tigard.eep dummy.conf
+ 1867  sudo ftdi_eeprom --device s:0403:6010:TG1114ad --filename tigard.eep --read-eeprom dummy.conf
+ 1868  sudo ftdi_eeprom --device s:0403:6010:TG1114ad --read-eeprom --filename=tigard.eep dummy.conf
+ 1869  lsusb -v -d 0403:6010 | grep -E 'iSerial|iProduct|iManufacturer'
+ 1870  sudo ftdi_eeprom --device s:0403:6010:TG1114ad dummy.conf
+ 1871  ftdi_eeprom --list
+ 1872  ls /dev/ttyUSB*
+ 1873  sudo rmmod ftdi_sio
+ 1874  sudo rmmod usbserial
+ 1875  sudo ftdi_eeprom --device s:0403:6010:TG1114ad dummy.conf
+ 1876  sudo ftdi_eeprom --device i:0403:6010:0 dummy.conf
+ 1877  ls /dev/ttyUSB*
+ 1878  sudo ftdi_eeprom --device d:/dev/bus/usb/001/002 dummy.conf
+ 1879  sudo ftdi_eeprom --device d:/dev/tty/USB/0/1 dummy.conf
+ 1880  sudo apt install libftdi1-utils
+ 1881  libftdi1-find
+ 1882  sudo apt update
+ 1883  sudo apt install cmake libusb-1.0-0-dev libconfuse-dev build-essential git
+ 1884  cd ~
+ 1885  git clone https://github.com/libftdi/libftdi1.git
+ 1886  cd libftdi1
+ 1887  mkdir build && cd build
+ 1888  cmake ..
+ 1889  make
+ 1890  sudo make install
+ 1891  cd ~
+ 1892  git clone https://github.com/libftdi/libftdi1.git
+ 1893  cd libftdi1
+ 1894  mkdir build && cd build
+ 1895  cmake ..
+ 1896  make
+ 1897  sudo make install
+ 1898  git clone https://github.com/libftdi/libftdi1.git
+ 1899  CD dOWNLOADS
+ 1900  CLEAR
+ 1901  clear
+ 1902  cd DOwnloads
+ 1903  cd DOnwloads
+ 1904  cd Downloads
+ 1905  clear
+ 1906  git clone https://github.com/libftdi/libftdi1.git
+ 1907  ftdi_eeprom --flash-eeprom tigard.conf
+ 1908  lsusb
+ 1909  sudo lsusb -v -d 0403:6010
+ 1910  sudo openocd -f jtag_dump.cfg
+ 1911  sudo pkill openocd
+ 1912  clear
+ 1913  sudo openocd -f jtag_dump.cfg
+ 1914  clear
+ 1915  sudo pkill openocd
+ 1916  clear
+ 1917  sudo openocd -f jtag_dump.cfg
+ 1918  clear
+ 1919  sudo pkill openocd
+ 1920  clear
+ 1921  sudo openocd -f jtag_dump.cfg
+ 1922  sudo pkill openocd
+ 1923  clear
+ 1924  sudo openocd -f jtag_dump.cfg
+ 1925  sudo pkill openocd
+ 1926  clear
+ 1927  sudo openocd -f jtag_dump.cfg
+ 1928  sudo pkill openocd
+ 1929  clear
+ 1930  sudo openocd -f jtag_dump.cfg
+ 1931  sudo ftdi_eeprom --read-eeprom firmex_read.conf
+ 1932  sudo ftdi_eeprom --read-eeprom tigard.conf
+ 1933  sudo ftdi_eeprom --read-eeprom firmex.conf
+ 1934  ftdi_eeprom --flash-eeprom firmex.conf
+ 1935  sudo openocd -f jtag_dump.cfg
+ 1936  sudo ftdi_eeprom --read-eeprom eeprom_dump.bin
+ 1937  sudo openocd -f jtag_dump.cfg
+ 1938  telnet localhost 4444
+ 1939  cd Downloads
+ 1940  sudo openocd -f jtag_dump.cfg
+ 1941  sudo pkill openocd
+ 1942  clear
+ 1943  sudo openocd -f jtag_dump.cfg
+ 1944  sudo pkill openocd
+ 1945  sudo openocd -f jtag_dump.cfg
+ 1946  sudo pkill openocd
+ 1947  sudo openocd -f jtag_dump.cfg
+ 1948  ftdi_eeprom --flash-eeprom tigard.conf
+ 1949  sudo openocd -f jtag_dump.cfg
+ 1950  ftdi_eeprom --flash-eeprom tigard.conf
+ 1951  sudo openocd -f jtag_dump.cfg
+ 1952  lsusb
+ 1953  sudo lsusb -v -d 0403:6010
+ 1954  lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1955  sudo openocd -f jtag_dump.cfg
+ 1956  lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1957  sudo openocd -f jtag_dump.cfg
+ 1958  sudo pkill openocd
+ 1959  sudo openocd -f jtag_dump.cfg
+ 1960  ftdi_eeprom --flash-eeprom tigard.conf
+ 1961  lsusb -v -d 0403:6010 | grep -E 'iManufacturer|iProduct|iSerial'
+ 1962  lsusb
+ 1963  sudo lsusb -v -d 0403:6010
+ 1964  time flashrom -p ft2232_spi:type=2232H, port=B,divisor=4 -r router.bin
+ 1965  sudo  flashrom -p ft2232_spi:type=2232H, port=B,divisor=4 -r router.bin
+ 1966  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1967  sudo  flashrom -p ft2232_spi:type=2232H, port=B,divisor=4 -r router.bin
+ 1968  time flashrom -p ft2232_spi:type=2232H,port=B,divisor=4 -r router.bin
+ 1969  sudo  flashrom -p ft2232_spi:type=2232H, port=B,divisor=4 -r router.bin
+ 1970  flashrom -p ft2232_spi:type=2232H, port=B,divisor=4 -r router.bin
+ 1971  flashrom -p ft2232_spi:type=2232H, port=B,divisor=4
+ 1972  cd /home/ems_intern/Desktop
+ 1973  git clone https://github.com/santhoshgandham/FirmEx.git
+ 1974  mv DEPENDENCIES FirmEx/
+ 1975  cd FirmEx
+ 1976  git clone https://github.com/santhoshgandham/FirmEx.git
+ 1977  mv DEPENDENCIES FirmEx/
+ 1978  cd FirmEx
+ 1979  cd /home/ems_intern/Desktop
+ 1980  git clone https://github.com/santhoshgandham/FirmEx.git
+ 1981  mv DEPENDENCIES FirmEx/
+ 1982  cd FirmEx
+ 1983  git status
+ 1984  cd /home/ems_intern/Desktop/FirmEx
+ 1985  CD
+ 1986  cd
+ 1987  clear
+ 1988  # Go to your local clone of the repository
+ 1989  cd /home/ems_intern/Desktop/FirmEx
+ 1990  # Move the DEPENDENCIES folder into the repository
+ 1991  mv /home/ems_intern/Desktop/DEPENDENCIES .
+ 1992  # Check that it moved successfully
+ 1993  ls
+ 1994  cd /home/ems_intern/Desktop/FirmEx
+ 1995  git clone https://github.com/santhoshgandham/FirmEx.git
+ 1996  cd FirmEx
+ 1997  mv ../DEPENDENCIES .
+ 1998  git add DEPENDENCIES
+ 1999  git commit -m "Added DEPENDENCIES folder"
+ 2000  git push origin main
+ 2001  sudo openocd -f jtag_dump.cfg
+ 2002  cd Download
+ 2003  cd Downloads
+ 2004  clear
+ 2005  sudo openocd -f jtag_dump.cfg
+ 2006  history
