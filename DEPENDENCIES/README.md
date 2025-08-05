@@ -7,7 +7,7 @@
 
 ---
 
-### ✅ **1. Toolchain Dependencies (Packages & Libraries)**
+###  **1. Toolchain Dependencies (Packages & Libraries)**
 
 | **Library/Package**                                               | **Purpose**                                   |
 | ----------------------------------------------------------------- | --------------------------------------------- |
@@ -26,7 +26,7 @@
 
 ---
 
-### ✅ **2. Important Functions Used from Libraries**
+###  **2. Important Functions Used from Libraries**
 
 | **Function / Method**         | **From**      | **Purpose**                             |
 | ----------------------------- | ------------- | --------------------------------------- |
@@ -44,7 +44,7 @@
 
 ---
 
-### ✅ **3. Files the Program Expects or Creates**
+###  **3. Files the Program Expects or Creates**
 
 | **File**                        | **Purpose**                                                                        |
 | ------------------------------- | ---------------------------------------------------------------------------------- |
@@ -59,7 +59,7 @@
 
 ---
 
-### ✅ **4. Hardcoded Device Paths and Addresses**
+###  **4. Hardcoded Device Paths and Addresses**
 
 | **Device/File**            | **Usage Context**                      |
 | -------------------------- | -------------------------------------- |
@@ -73,7 +73,7 @@
 
 ---
 
-### ✅ **5. Extraction Methods & How They Work**
+###  **5. Extraction Methods & How They Work**
 
 | **Method**            | **Details**                                                      |
 | --------------------- | ---------------------------------------------------------------- |
