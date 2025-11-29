@@ -1,7 +1,7 @@
 # FirmEx
 An automated firmware verification and real-time sensor monitoring framework which includes a firmware extraction module (FirmEx) and a passive sniffer module (i2c_sniffer) for real-time anomaly detection running on a RaspberryPi with a user interactive GUI.
 
-<img width="310" height="260" alt="ProposedFramework" src="https://github.com/user-attachments/assets/0878f189-bd0e-4529-9299-ebbcf128aa7b" />
+<img width="1919" height="951" alt="FirmExFramework (7)" src="https://github.com/user-attachments/assets/ada5b53b-f652-44b0-85f3-aedf31017310" />
 
 Fig. High-Level System Framework
 
